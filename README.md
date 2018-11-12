@@ -1,3 +1,3 @@
-# enterprise-excercises
+# enterprise-exercises
 
 Collection of challenging problems.
